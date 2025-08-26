@@ -18,7 +18,6 @@ Parse, verify, and highlight questionable academic references — catch fabricat
 ![GitHub issues](https://img.shields.io/github/issues/salvatoremaione/ref-verifier)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/salvatoremaione/ref-verifier)
 ![Last Commit](https://img.shields.io/github/last-commit/salvatoremaione/ref-verifier)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/salvatoremaione/ref-verifier/R-CMD-check.yaml?label=R%20CMD%20Check)
 
 ---
 
