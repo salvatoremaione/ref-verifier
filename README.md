@@ -4,6 +4,17 @@ Parse, verify, and highlight questionable academic references — catch fabricat
 
 ---
 
+## 🛡️ Badges
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+![CRAN Status](https://www.r-pkg.org/badges/version-last-release/gt)  
+![R](https://img.shields.io/badge/R-4.3.1-blue?logo=r)  
+![Dependencies](https://img.shields.io/badge/dependencies-10-lightgrey)  
+![API: Crossref](https://img.shields.io/badge/API-Crossref-blue)  
+![API: OpenAlex](https://img.shields.io/badge/API-OpenAlex-green)
+
+---
+
 ## 📑 Table of Contents
 - [Overview](#-overview)
 - [Features](#-features)
