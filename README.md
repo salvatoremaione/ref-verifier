@@ -6,12 +6,19 @@ Parse, verify, and highlight questionable academic references — catch fabricat
 
 ## 🛡️ Badges
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
-![CRAN Status](https://www.r-pkg.org/badges/version-last-release/gt)  
-![R](https://img.shields.io/badge/R-4.3.1-blue?logo=r)  
-![Dependencies](https://img.shields.io/badge/dependencies-10-lightgrey)  
-![API: Crossref](https://img.shields.io/badge/API-Crossref-blue)  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![R](https://img.shields.io/badge/R-4.3.1-blue?logo=r)
+![CRAN Status](https://www.r-pkg.org/badges/version-last-release/gt)
+![Dependencies](https://img.shields.io/badge/dependencies-10-lightgrey)
+![API: Crossref](https://img.shields.io/badge/API-Crossref-blue)
 ![API: OpenAlex](https://img.shields.io/badge/API-OpenAlex-green)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/salvatoremaione/ref-verifier?style=social)
+![GitHub forks](https://img.shields.io/github/forks/salvatoremaione/ref-verifier?style=social)
+![GitHub issues](https://img.shields.io/github/issues/salvatoremaione/ref-verifier)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/salvatoremaione/ref-verifier)
+![Last Commit](https://img.shields.io/github/last-commit/salvatoremaione/ref-verifier)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/salvatoremaione/ref-verifier/R-CMD-check.yaml?label=R%20CMD%20Check)
 
 ---
 
