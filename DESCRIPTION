@@ -1,0 +1,14 @@
+Package: refverifier
+Type: Package
+Title: Reference Verifier for Scientific Citations
+Version: 0.1.0
+Author: Salvatore
+Maintainer: Salvatore <your-email@example.com>
+Description: Parses plain-text bibliographic references and verifies them
+    using Crossref, OpenAlex, and additional metadata checks.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.0)
+Imports:
+    dplyr, purrr, tibble, readr, stringi, stringdist, httr, jsonlite, stringr, gt
