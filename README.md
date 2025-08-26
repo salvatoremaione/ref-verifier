@@ -2,6 +2,20 @@
 
 Parse, verify, and highlight questionable academic references — catch fabricated or erroneous citations before they catch you.
 
+---
+
+## 📑 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Usage](#-usage)
+- [Example Session](#-example-session)
+- [Installation](#-installation)
+- [How It Works](#-how-it-works)
+- [Limitations](#-limitations)
+- [License](#-license)
+
+---
+
 ## 📚 Overview
 
 `ref-verifier` is an R-based utility that validates bibliographic references by:
@@ -13,7 +27,20 @@ Parse, verify, and highlight questionable academic references — catch fabricat
 - Scoring matches using title similarity, author surname overlap, and year proximity
 - Producing a color-coded [`gt`](https://gt.rstudio.com/) table for quick review
 
-Designed for academics, editors, and reviewers to spot typos, mismatches, or fabricated citations.
+**Ideal for:**
+- Journal editors verifying manuscript references
+- Peer reviewers checking citation accuracy
+- Researchers cleaning up bibliographies
+
+---
+
+## ✨ Features
+
+- ✅ Supports APA, MLA, and Chicago formats  
+- 🔍 DOI and title-based verification  
+- 🧠 Intelligent scoring system for match confidence  
+- 🎨 Interactive, color-coded output via `gt`  
+- 🌐 Integrates with Crossref and OpenAlex APIs  
 
 ---
 
@@ -31,7 +58,7 @@ Doe, A. (2019). Another Study. Example Journal, 5(2), 100–110.
 
 ### Step 2 — Run the verifier
 ```r
-source("ref-verifier.R")
+source("R/ref-verifier.R")
 results <- verify_references("references.txt")
 ```
 
@@ -52,7 +79,7 @@ gt::gtsave(results, "verification_report.html")
 
 ```r
 # Load the script
-source("ref-verifier.R")
+source("R/ref-verifier.R")
 
 # Verify references from file
 results <- verify_references("my_refs.txt")
