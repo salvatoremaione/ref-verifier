@@ -1,2 +1,17 @@
-# ref-verifier
-R script for automated verification of scientific references — parses plain‑text citations (APA, MLA, Chicago), checks DOIs via Crossref, falls back to title searches on Crossref &amp; OpenAlex, and flags mismatches in year, ISSN, and publisher. Generates a colour‑coded gt table report for quick review.
+# Reference Verifier in R
+
+This tool parses scientific references from plain text and checks their authenticity using:
+
+- **DOI verification** via Crossref
+- **Publisher & ISSN cross-checks**
+- **Multi-query title fallback** via Crossref & OpenAlex
+- **Weighted match scoring**
+- **Interactive reporting** with a color-coded `gt` table
+
+## 📦 Requirements
+
+```r
+install.packages(c(
+  "dplyr", "purrr", "tibble", "readr", "stringi", "stringdist",
+  "httr", "jsonlite", "stringr", "gt"
+))
