@@ -12,6 +12,7 @@ Parse, verify, and highlight questionable academic references — catch fabricat
 ![Dependencies](https://img.shields.io/badge/dependencies-10-lightgrey)
 ![API: Crossref](https://img.shields.io/badge/API-Crossref-blue)
 ![API: OpenAlex](https://img.shields.io/badge/API-OpenAlex-green)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16980612.svg)](https://doi.org/10.5281/zenodo.16980612)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/salvatoremaione/ref-verifier?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/salvatoremaione/ref-verifier?style=social)
