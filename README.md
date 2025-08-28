@@ -14,12 +14,6 @@ Parse, verify, and highlight questionable academic references — catch fabricat
 ![API: OpenAlex](https://img.shields.io/badge/API-OpenAlex-green)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16980612.svg)](https://doi.org/10.5281/zenodo.16980612)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/salvatoremaione/ref-verifier?style=social)
-![GitHub forks](https://img.shields.io/github/forks/salvatoremaione/ref-verifier?style=social)
-![GitHub issues](https://img.shields.io/github/issues/salvatoremaione/ref-verifier)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/salvatoremaione/ref-verifier)
-![Last Commit](https://img.shields.io/github/last-commit/salvatoremaione/ref-verifier)
-
 ---
 
 ## 📑 Table of Contents
