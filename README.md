@@ -12,6 +12,9 @@ Parse, verify, and highlight questionable academic references — catch fabricat
 ![API: Crossref](https://img.shields.io/badge/API-Crossref-blue)
 ![API: OpenAlex](https://img.shields.io/badge/API-OpenAlex-green)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16980612.svg)](https://doi.org/10.5281/zenodo.16980612)
+[![GitHub Verified](https://img.shields.io/badge/Verified-GitHub-blue?logo=github)](https://github.com/salvatoremaione)
+[![Verified Identity](https://img.shields.io/badge/Verified-ORCID-green?logo=orcid)](https://orcid.org/0000-0002-5944-2589)
+[![Trusted Maintainer](https://img.shields.io/badge/Trusted%20Maintainer-Keybase-8A2BE2?logo=keybase&logoColor=white)](https://keybase.io/salvatore)  
 
 ---
 
