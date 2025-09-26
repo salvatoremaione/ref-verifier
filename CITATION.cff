@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Reference Verifier"
+version: 1.0.1
+date-released: 2025-08-25
+authors:
+  - family-names: "Maione"
+    given-names: "Salvatore"
+    affiliation: "SUPSI-DEASS-CPPS"
+    orcid: "https://orcid.org/0000-0002-5944-2589"
+repository-code: "https://github.com/salvatoremaione/ref-verifier"
+license: "MIT"
+keywords:
+  - bibliography
+  - plagiarism detection
+  - reference checker
+  - doi verification
+  - metadata verification
